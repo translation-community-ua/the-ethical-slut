@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Part 1. Welcome/ch01.md",
+                "file": "ch28 About the authors.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Part 1. Welcome/ch01.md",
+                "file": "ch28 About the authors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Part 1. Welcome/ch01.md",
+                "file": "ch28 About the authors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Part 1. Welcome/ch01.md"
+                "file": "ch28 About the authors.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "5300017c7bbccd88",
   "lastOpenFiles": [
+    "Part 1. Welcome/ch01.md",
     "ch28 About the authors.md",
     "ch27 FURTHER READING .md",
     "ch26 A slut's glossary.md",
@@ -173,7 +174,6 @@
     "Part 1. Welcome/ch04.md",
     "Part 1. Welcome/ch05.md",
     "Part 1. Welcome/ch06.md",
-    "Part 1. Welcome/ch07.md",
     "Part 4. Sluts in Love",
     "Part 3. Navigating challenges",
     "Part 2. The practice of sluthood"

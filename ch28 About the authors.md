@@ -1,5 +1,4 @@
-About the Authors
-=================
+# About the Authors
 
 Dossie Easton is a licensed marriage and family therapist specializing in alternative sexualities and relationships, with more than twenty-five years of experience counseling open relationships. She is the author of four other books. She has been an ethical slut since 1969. Visit [www.dossieeaston.com](http://www.dossieeaston.com).
 
@@ -13,4 +12,4 @@ _The New Bottoming Book_ and _The New Topping Book_ show how to bring all your p
 
 _Radical Ecstasy: SM Journeys to Transcendence_ chronicles Dossie and Janet’s individual and mutual experiences with altered states of consciousness during BDSM play and offers some ideas drawn from tantra and other practices about how to journey there yourself.
 
-Janet is also the author of _The Sexually Dominant Woman_ (written as “Lady Green”), S_panking for Lovers_, and (with Dr. Charles Moser) _Sex Disasters…And How to Survive Them_, as well as a memoir, _Girlfag: A Life Told in Sex and Musicals_ (Beyond Binary Press).
+Janet is also the author of _The Sexually Dominant Woman_ (written as “Lady Green”), _Spanking for Lovers_, and (with Dr. Charles Moser) _Sex Disasters…And How to Survive Them_, as well as a memoir, _Girlfag: A Life Told in Sex and Musicals_ (Beyond Binary Press).

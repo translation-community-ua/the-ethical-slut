@@ -1,9 +1,8 @@
-CONCLUSION A SLUT UTOPIA
-=====================
+# CONCLUSION A SLUT UTOPIA
 
 Well, here we are, at the end of our book. But before we launch you back out into the world, we want to leave you with one final concept that may help you shape your thinking as you design your own life full of whatever kinds of sex and love you want.
 
-From Two to Many
+## From Two to Many
 
 The world is very fond of binaries: black and white, male and female, mind and body, good and bad. These pairs, we all learn, are opposed: there’s the right way and the wrong way, and our task is to do battle to defend the right and destroy the wrong. This kind of thinking dominates our courts, our politics, and our talk shows, with some crazy results: for instance, some people believe that anyone who enjoys sex outside of marriage, or a kind of marriage that’s different from theirs, must be attacking _their_ marriage. Anything that is different must be opposed, must be the enemy.
 
@@ -15,9 +14,9 @@ When we open our minds to a world beyond opposites, we become able to see beyond
 
 Thus sluthood can become a path to transcendence: a freeing of the mind and spirit as well as the body, a way of being in the world that allows expanded awareness, spiritual growth, and love beyond imagining.
 
-“Sluthood can become a path to transcendence, a freeing of the mind and spirit as well as the body.”
+> “Sluthood can become a path to transcendence, a freeing of the mind and spirit as well as the body.”
 
-A Slut Manifesto
+## A Slut Manifesto
 
 By examining the issues that limit our relationships and our understanding of how we might be, we are planning for a society that is appropriate to the way many people live today—one that meets our need for change and growth while feeding our fundamental desire for belonging and family.
 
@@ -29,7 +28,7 @@ We see ethical sluthood leading us to a world where we respect and honor each in
 
 And in expanding our sexual lives, we foresee the development of an advanced sexuality where we can become both more natural and more human. Sex and intimacy really are physical expressions of a whole lot of stuff that otherwise has no physical existence: love and joy, deep emotion, intense closeness, profound connection, spiritual awareness, incredibly good feelings, sometimes even transcendent ecstasy. In our utopia, intellect is not a trap that we get stuck in, but an honored tool we use to give form to our experience. We free our natural selves by opening our intellects to sensual awareness of our bodies, and when we are no longer stuck in our intellects, we can become free to welcome spirit: intuitive, experiencing the joy of life for the simple sake of experiencing, in communion with ourselves, with each other, and beyond.
 
-Our Favorite Fantasy: Abundance in Sex and Love
+## Our Favorite Fantasy: Abundance in Sex and Love
 
 We want everyone to be free to express love in every possible way. We want to create a world where everyone has plenty of what they need: of community, of connection, of touch and sex and love. We want our children to be raised in an expanded family, a connected village within contemporary alienation, where there are enough adults who love them and each other, so there is plenty of love and attention and nurturance—more than enough to go around. We want a world where the sick and aging are cared for by people who love them, where resources are shared by people who care about each other.
 

@@ -1,5 +1,5 @@
-A Slut’s Glossary
-=================
+# A Slut’s Glossary
+
 
 New words and terminologies are coined constantly, which is a challenge for writers and sluts alike. This progress is inevitable: we _must_ refine our language as we free ourselves to enter new experiences because it is next to impossible to think clearly and make decisions about choices for which you have no language.
 
